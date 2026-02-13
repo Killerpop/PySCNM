@@ -78,7 +78,7 @@ pip install requests beautifulsoup4
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/pyscnm.git
+git clone https://github.com/Killerpop/PySCNM.git
 
 # Navegar al directorio
 cd pyscnm
@@ -87,10 +87,10 @@ cd pyscnm
 pip install -r requirements.txt
 
 # Dar permisos de ejecución (Linux/Mac)
-chmod +x pyscnm1_0_mejorado.py
+chmod +x pyscnm1.py
 
 # Ejecutar
-python3 pyscnm1_0_mejorado.py
+python3 pyscnm1.py
 ```
 
 ## 💻 Uso
@@ -98,7 +98,7 @@ python3 pyscnm1_0_mejorado.py
 ### Uso Básico
 
 ```bash
-python3 pyscnm1_0_mejorado.py
+python3 pyscnm1.py
 ```
 
 El script te guiará a través de un proceso interactivo donde deberás proporcionar:
@@ -290,8 +290,8 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 **G. Zaballa**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
+- GitHub: [@Killerpop](https://github.com/Killerpop)
+- Email: gzaballa444@gmail.com
 
 ## 🙏 Agradecimientos
 
